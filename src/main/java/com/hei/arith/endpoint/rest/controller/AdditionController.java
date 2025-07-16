@@ -1,4 +1,4 @@
-package com.hei.arith.endpoint.rest
+package com.hei.arith.endpoint.rest.controller;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.GetMapping;
